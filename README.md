@@ -1,9 +1,8 @@
 # Clair Nolan - Data Analyst & Educator
 ## About
-Hi, I’m Clair Nolan! I’m a qualified professional high school math teacher, where I teach Python and data analysis tools to students worldwide. I have a strong passion for working with data, solving problems, and helping others develop the skills needed to succeed in data analytics.
+Hi, I’m Clair Nolan! As a math major, I am obsessed with data. I am good at spotting patterns, and  turning data into clear, actionable insights. My attention to detail, accuracy,ability to work well in teams, strong desire to acquire new skills,excellent communication and presenting skills, makes me a perfect candidate of a data analyst. 
 
-Currently, I am pursuing an RQF Level 6 Diploma in Artificial Intelligence Operations from Alnafi (EduQual). This program is helping me expand my knowledge in AI, automation, devops and advanced data analysis techniques.
-
+I have acquired a lot of certifications, such as 
 With experience in Python, SQL, Power BI, and Excel, I enjoy working on real-world data projects and turning raw data into meaningful insights. My teaching approach is practical and hands-on, focusing on making complex topics easier to understand.
 
 When I’m not analyzing data or teaching, I like exploring new technologies, improving my coding skills, and working on personal projects.
