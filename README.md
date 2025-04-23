@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### MovieLens Data Analysis  
+### Hr Analytic Job Prediction  
 **Code:** [`MovieLens Data Analysis.ipynb`](https://github.com/usamaabidai/MovieLens-Data-Analysis/blob/main/MovieLens_Data_Analysis_Project.ipynb)
 
 **Goal:** To analyze movie rating patterns, genre preferences, and user behavior to extract valuable insights for improving user engagement on movie recommendation platforms.  
