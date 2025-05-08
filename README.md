@@ -1,10 +1,8 @@
 # Clair Nolan - Data Analyst & Educator
 ## About
-Hi, I’m Clair Nolan! As a math major, I am obsessed with data. I am good at spotting patterns, and  turning data into clear, actionable insights. My attention to detail, accuracy,ability to work well in teams, strong desire to acquire new skills,excellent communication and presenting skills, makes me a perfect candidate of a data analyst. 
-
-I have acquired a lot of certifications, such as 
-With experience in Python, SQL, Power BI, and Excel, I enjoy working on real-world data projects and turning raw data into meaningful insights. My teaching approach is practical and hands-on, focusing on making complex topics easier to understand.
-
+Hi, I’m Clair Nolan! As a math major, I am obsessed with data. I am good at spotting patterns and  turning data into clear, actionable insights. My attention to detail, accuracy,ability to work well in teams, strong desire to acquire new skills,excellent communication and presenting skills, makes me a perfect candidate of a data analyst. 
+I have acquired a lot of certifications, such as Microsoft Power BI Data Analyst Professional Certificate,Google Data Analytics Certificate and Google Advanced Data Analytics Certificate. Currently I am working on PL-300 and AWS Clould Practitioner.With experience in Python, SQL, Power BI, and Excel, I enjoy working on real-world data projects and turning raw data into meaningful insights. 
+I am detail-oriented, work well in teams, and excel as a storyteller and effective presenter—skills developed through my experience as a teacher and my naturally engaging communication style.. 
 When I’m not analyzing data or teaching, I like exploring new technologies, improving my coding skills, and working on personal projects.
 
 My CV in [pdf](https://github.com/Clairzhq/Data-Analysis-Portfolio/blob/main/Clair%20Nolan.pdf).
