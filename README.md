@@ -16,15 +16,19 @@ In this section I will list data analytics projects briefly describing the techn
 ### Hr Analytic Job Prediction  
 **Code:** [`Hr Analytic Job Prediction.ipynb`](https://github.com/Clairzhq/Data-Analysis-Portfolio/blob/main/Hr%20Analytic%20Job%20Prediction.ipynb)
 
-**Goal:** To analyze movie rating patterns, genre preferences, and user behavior to extract valuable insights for improving user engagement on movie recommendation platforms.  
+**Goal:** create a model that predicts employee attrition. The successful implementation of this predictive model will equip Salifort Motors with valuable insights, enabling them to make data-driven decisions to retain their workforce. A comprehensive analysis of the HR dataset has been conducted, and data preprocessing, exploratory data analysis, and feature engineering have been carried out to prepare the data for model development.  
 
-**Description:** The project analyzed the MovieLens dataset, which contains information about movies, user demographics, and movie ratings. The dataset included three primary files: movie.csv (movie titles and genres), user.csv (demographic details of users), and ratings.csv (user ratings for specific movies). The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing genre preferences, identifying top-rated movies, and studying user rating behavior across different demographics.  
+**Description:** TSalifort Motors is a fictional French-based alternative energy vehicle manufacturer. Its global workforce of over 100,000 employees research, design, construct, validate, and distribute electric, solar, algae, and hydrogen-based vehicles. Salifort’s end-to-end vertical integration model has made it a global leader at the intersection of alternative energy and automobiles.For this deliverable, I will choose a method to approach this data challenge , selecting either a regression model or a machine learning model to predict whether an employee will leave the company.
+**Skills:** data cleaning, data analysis,data visualization, data modelling
 
-**Skills:** data cleaning, data analysis,data visualization.  
+**Technology:** Python, Pandas, NumPy, Seaborn, Matplotlib and sklearn.
 
-**Technology:** Python, Pandas, NumPy, Seaborn, Matplotlib.  
-
-**Results:** The analysis revealed that Film-Noir has the highest average rating (3.92), while Fantasy has the lowest (3.21). *Star Wars* received the most ratings while maintaining an excellent 4.35 average. Non-working users tend to give higher ratings, while healthcare workers provide the lowest average ratings.
+**Insights:**
+1.If employees aren't familiar with the company's overtime pay policies, inform them about this. If the expectations around workload and time off aren't explicit, make them clear. 
+2. Hold company-wide and within-team discussions to understand and address the company work culture, across the board and in specific contexts. 
+3.High evaluation scores should not be reserved for employees who work 200+ hours per month. Consider a proportionate scale for rewarding employees who contribute more/put in more effort. 
+4.Consider promoting employees who have been with the company for at least four years, or conduct further investigation about why four-year tenured employees are so dissatisfied. 
+5.Either reward employees for working longer hours, or don't require them to do so.
 
 ### Chef's Kitchen Tip Analysis  
 **Code:** [`Chef's Kitchen Tip Analysis.ipynb`](https://github.com/usamaabidai/Chef-s-Kitchen-Tip-Analysis/blob/main/tips_data_analysis.ipynb)
