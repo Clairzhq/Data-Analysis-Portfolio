@@ -30,18 +30,18 @@ In this section I will list data analytics projects briefly describing the techn
 4.Consider promoting employees who have been with the company for at least four years, or conduct further investigation about why four-year tenured employees are so dissatisfied. 
 5.Either reward employees for working longer hours, or don't require them to do so.
 
-### Chef's Kitchen Tip Analysis  
-**Code:** [`Chef's Kitchen Tip Analysis.ipynb`](https://github.com/usamaabidai/Chef-s-Kitchen-Tip-Analysis/blob/main/tips_data_analysis.ipynb)
+###   Cyclistic Rider Analysis
+**Code:** [`Cyclistic Rider Analysis.ipynb`](https://github.com/Clairzhq/Cyclistic-Rider-Analysis/blob/main/Cyclistic%20Rider%20Analysis.ipynb)
 
-**Goal:** To analyze tipping patterns at Chef's Kitchen and identify key trends in customer spending habits to optimize service strategies.  
+**Goal:** This project aims to find out how casual riders and annual members use Cyclistic bikes differently and design a new marketing strategy to convert casual riders to annual members.  
 
-**Description:** The project examined transaction data from Chef's Kitchen, focusing on bill amounts, tipping behavior, and customer demographics. The dataset included features such as order ID, day of the week, time of day, party size, smoking status, gender of the bill payer, total bill amount, and tip amount. The analysis involved data cleaning, exploratory data analysis (EDA), statistical analysis, and pattern recognition to uncover insights into tipping behavior across different factors like time, day, and demographics.  
+**Description:**Cyclistic is a bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. The majority of ridersprefer too traditional bike and about 8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use the bikes to commute work.  
 
-**Skills:** data cleaning, data analysis, pattern recognition, data visualization.  
+**Skills:** data cleaning, data analysis, pattern recognition, data visualization and data modeling.  
 
 **Technology:** Python, Pandas, NumPy, Seaborn, Matplotlib.  
 
-**Results:** The analysis revealed a clear linear relationship between total bill amount and tip amount. Dinner service generates higher orders and higher tips than lunch. Male bill payers outnumber females by a 2:1 ratio, with greater variability in tipping. Smoking status does not significantly influence tipping behavior.
+**Results:** . Five stations had fewer than two trips, indicating possible removal. Tuesday was the most popular day with balanced rider types, while Wednesday had more subscribers. July and September saw peak usage, mostly by subscribers, while May and June had the least activity with no casual riders. A/B tests showed trip distance and duration correlate with user type, and a logistic model predicted user type with 72.4% accuracy.
 
 ### US Honey Production Analysis (1998-2016)
 **Code:** [`US Honey Production Analysis.ipynb`](https://github.com/usamaabidai/US-Honey-Production-Analysis-1998-2016-/blob/main/honey_production_data_analysis.ipynb)  
