@@ -35,7 +35,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** This project aims to find out how casual riders and annual members use Cyclistic bikes differently and design a new marketing strategy to convert casual riders to annual members.  
 
-**Description:**Cyclistic is a bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. The majority of ridersprefer too traditional bike and about 8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use the bikes to commute work.  
+**Description:** Cyclistic is a bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. The majority of ridersprefer too traditional bike and about 8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use the bikes to commute work.  
 
 **Skills:** data cleaning, data analysis, pattern recognition, data visualization and data modeling.  
 
