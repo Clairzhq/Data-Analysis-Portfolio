@@ -57,3 +57,17 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** The model achieved an accuracy of approximately 77.78%, using features such as number of sessions and percentage of Pop music consumption. It revealed that fewer sessions and high Pop genre preference are strong indicators of potential cancellation. Discounts and podcast consumption showed no significant impact on churn.
 
+
+### Healthcare Dynamics – In-Depth Analysis
+
+**Code:** [`Healthcare Dynamics.pbix`](https://github.com/Clairzhq/Hospital-Power-BI-Project)
+
+**Goal:** This project aims to provide a comprehensive and interactive Power BI dashboard to help hospital management monitor patient visits, staff allocation, ER wait times, revenue, feedback, and care outcomes—ultimately improving healthcare service delivery and efficiency.
+
+**Description:** This Power BI project visualizes data from a hospital setting, tracking key metrics such as patient admissions, discharge rates, ICU usage, ER performance, and feedback sentiment. It highlights the distribution of patients across age groups, evaluates departmental performance, and assesses revenue contribution by demographic. Key focus areas include optimizing emergency services, improving elderly care experiences, and strengthening staff and facility management strategies.
+
+**Skills:** data modeling, dashboard design, business intelligence, KPI tracking, data storytelling.
+
+**Technology:** Power BI, Excel.
+
+**Results:** The hospital served 2,506 patients with a staff of 262, maintaining a patient-to-staff ratio of 0.10. ER wait times averaged 47 minutes, with OPD Outpatient reaching 94 minutes. The 6–20 age group generated the most revenue (136K) and had the highest satisfaction rating (4.94/5), while the 60+ group had the lowest (4.76/5). The hospital maintained 2,847 occupied beds and generated approximately 404.49K in revenue. Feedback was overwhelmingly positive, with 95.61% of patients expressing satisfaction. Recommendations included reducing ER bottlenecks, improving care for elderly patients, and reviewing discharge procedures.
