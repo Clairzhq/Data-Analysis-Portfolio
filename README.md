@@ -42,3 +42,18 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Pandas, NumPy, Seaborn, Matplotlib.  
 
 **Results:** . Five stations had fewer than two trips, indicating possible removal. Tuesday was the most popular day with balanced rider types, while Wednesday had more subscribers. July and September saw peak usage, mostly by subscribers, while May and June had the least activity with no casual riders. A/B tests showed trip distance and duration correlate with user type, and a logistic model predicted user type with 72.4% accuracy.
+
+### Rythm Retention
+
+**Code:** [`Rythm-Retention.ipynb`](https://github.com/Clairzhq/Rythm-Retention/blob/main/Rythm%20Retention.ipynb)
+
+**Goal:** This project aims to predict which customers are likely to cancel their music subscription using logistic regression, helping the business identify at-risk users and improve retention strategies.
+
+**Description:** The project analyzes customer subscription data and listening history over a three-month period. Key behavioral metrics were engineered, such as session count and genre preferences. A logistic regression model was used to classify users based on their likelihood of canceling. Insights were drawn to inform marketing and retention strategies.
+
+**Skills:** data cleaning, feature engineering, exploratory data analysis, predictive modeling, business insight generation.
+
+**Technology:** Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook, Excel.
+
+**Results:** The model achieved an accuracy of approximately 77.78%, using features such as number of sessions and percentage of Pop music consumption. It revealed that fewer sessions and high Pop genre preference are strong indicators of potential cancellation. Discounts and podcast consumption showed no significant impact on churn.
+
