@@ -13,8 +13,8 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Hr Analytic Job Prediction  
-**Code:** [`HR Analytic Job Prediction.ipynb`](https://github.com/Clairzhq/Data-Analysis-Portfolio/blob/main/Hr%20Analytic%20Job%20Prediction.ipynb)
+### HR Analytic Job Prediction  
+**Code:** [`HR Analytic Job Prediction.ipynb`](https://github.com/Clairzhq/HR-Analytics-Job-Prediction/blob/main/Hr%20Analytic%20Job%20Prediction.ipynb)
 
 **Goal:** Create a model that predicts employee attrition. The successful implementation of this predictive model will equip Salifort Motors with valuable insights, enabling them to make data-driven decisions to retain their workforce. A comprehensive analysis of the HR dataset has been conducted, and data preprocessing, exploratory data analysis, and feature engineering have been carried out to prepare the data for model development.  
 
