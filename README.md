@@ -82,7 +82,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Skills:** SQL querying, Data modeling, Dashboard design, KPI analysis, Business intelligence, Supply chain analytics.
 
-**Technology:** MySQL, Power BI, Excel.
+**Technology:** MySQL and Power BI
 
 **Results:** The dashboard revealed that a small group of suppliers contributed to over 60% of revenue, and that products with unit prices above average tended to be underordered but yielded higher margins. Customer segmentation identified several inactive customers clustered in specific cities, opening up opportunities for targeted campaigns. Discount analysis showed that while discounts drove volume, they also eroded profit in certain product lines. The company also found that the UK relied heavily on a few countries for key supplies, which highlighted the need for diversification to improve supply chain resilience. Strategic recommendations included loyalty programs for high-value customers, onboarding new regional suppliers, and revising discount strategies.
 
