@@ -71,3 +71,19 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Power BI, Excel.
 
 **Results:** The hospital served 2,506 patients with a staff of 262, maintaining a patient-to-staff ratio of 0.10. ER wait times averaged 47 minutes, with OPD Outpatient reaching 94 minutes. The 6–20 age group generated the most revenue (136K) and had the highest satisfaction rating (4.94/5), while the 60+ group had the lowest (4.76/5). The hospital maintained 2,847 occupied beds and generated approximately 404.49K in revenue. Feedback was overwhelmingly positive, with 95.61% of patients expressing satisfaction. Recommendations included reducing ER bottlenecks, improving care for elderly patients, and reviewing discharge procedures.
+
+### Supply Chain Insights – SQL & Power BI Project
+
+**Code:** [`Supply-Chain-Database`](https://github.com/Clairzhq/supply_and_chain_sql_project)
+
+**Goal:** This project aims to design a relational supply chain database using MySQL and build a Power BI dashboard to help Richard’s Supply uncover insights into customer behavior, supplier contributions, product demand, and financial performance—enhancing operational visibility and driving smarter decision-making.
+
+**Description:** The project integrates transactional supply chain data from multiple tables—customers, orders, order items, products, and suppliers—and answers key business questions using SQL and Power BI. It explores metrics such as high-performing suppliers, inactive customers, discount impacts on revenue, and demand distribution across products and regions. The dashboard enables cross-functional teams to identify risks, improve supplier engagement, and optimize inventory and customer outreach strategies.
+
+**Skills:** SQL querying, Data modeling, Dashboard design, KPI analysis, Business intelligence, Supply chain analytics.
+
+**Technology:** MySQL, Power BI, Excel.
+
+**Results:** The dashboard revealed that a small group of suppliers contributed to over 60% of revenue, and that products with unit prices above average tended to be underordered but yielded higher margins. Customer segmentation identified several inactive customers clustered in specific cities, opening up opportunities for targeted campaigns. Discount analysis showed that while discounts drove volume, they also eroded profit in certain product lines. The company also found that the UK relied heavily on a few countries for key supplies, which highlighted the need for diversification to improve supply chain resilience. Strategic recommendations included loyalty programs for high-value customers, onboarding new regional suppliers, and revising discount strategies.
+
+
