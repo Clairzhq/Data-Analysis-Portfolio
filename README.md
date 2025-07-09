@@ -5,7 +5,7 @@ I have acquired a lot of certifications, such as Microsoft Power BI Data Analyst
 I am detail-oriented, work well in teams, and excel as a storyteller and effective presenter—skills developed through my experience as a teacher and my naturally engaging communication style.. 
 When I’m not analyzing data or teaching, I like exploring new technologies, improving my coding skills, and working on personal projects.
 
-My CV in [pdf](https://github.com/Clairzhq/Data-Analysis-Portfolio/blob/main/Clair%20Nolan-CV.pdf).
+My CV in [pdf](https://github.com/Clairzhq/Data-Analysis-Portfolio/blob/main/Clair%20Nolan-CV-1.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
